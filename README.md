@@ -6,4 +6,3 @@ Duration:DEC TO JAN 2025
 Mentor:Neela santhosh kumar
 
 
-OVERVIEW OF THE PROJECT
